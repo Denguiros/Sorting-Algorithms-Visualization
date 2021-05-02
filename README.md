@@ -1,1 +1,3 @@
 # Sorting-Algorithms-Visualization
+A school project to visualise sort algorithms such as Bubble sort and Quick sort etc... 
+This was achieved using Python
